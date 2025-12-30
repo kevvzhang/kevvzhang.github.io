@@ -1,0 +1,48 @@
+# Publications list
+# Add new publications at the top
+
+- title: "Stuart-Landau Oscillatory Graph Neural Network"
+  authors: "K Zhang, DN Reynolds, P Deidda, F Tudisco"
+  venue: "arXiv preprint arXiv:2511.08094, 2025"
+  year: 2025
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2511.08094"
+
+- title: "Rethinking the Vulnerability of Concept Erasure and a New Method"
+  authors: "AD Richardson*, K Zhang*, L Beerens, D Chen"
+  venue: "arXiv preprint arXiv:2502.17537, 2025"
+  year: 2025
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2502.17537v3"
+
+- title: "Rethinking Oversmoothing in Graph Neural Networks: A Rank-Based Perspective"
+  authors: "K Zhang*, P Deidda*, D Higham, F Tudisco"
+  venue: "arXiv preprint arXiv:2502.04591, 2025"
+  year: 2025
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2502.04591"
+
+- title: "Adversarial Attacks on Convolutional Neural Networks with General Purpose Optimization Software"
+  authors: "K Zhang, D Zorba, A Meda, L Beerens, D Higham"
+  venue: "MadeAI, 2025"
+  year: 2025
+  links: []
+
+- title: "Optical Neural Networks Based on Perovskite Solar Cells"
+  authors: "K Zhang, J Harwell, D Pierangeli, C Conti, A Di Falco"
+  venue: "Photonics Research 13 (2), 382-386, 2025"
+  year: 2025
+  links:
+    - label: "Paper"
+      url: "https://opg.optica.org/prj/fulltext.cfm?uri=prj-13-2-382"
+
+- title: "A Low-Rank Perspective on Oversmoothing in Graph Neural Networks"
+  authors: "K Zhang, P Deidda, D Higham, F Tudisco"
+  venue: "AAAI 2025 Workshop CoLoRAI, 2025"
+  year: 2025
+  links:
+    - label: "PDF"
+      url: "https://openreview.net/pdf?id=syr78TFSWp"

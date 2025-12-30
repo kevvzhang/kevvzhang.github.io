@@ -1,0 +1,41 @@
+---
+layout: default
+title: Research
+---
+
+<!-- Research Interests Section -->
+<section class="research-section">
+  <div class="container">
+    <h2 class="section-title">Research Interests</h2>
+    <ul class="research-interests-vertical">
+      <li>LLM Agents</li>
+      <li>Diffusion Language Models</li>
+      <li>Graph Neural Networks</li>
+      <li>Adversarial Attacks</li>
+    </ul>
+  </div>
+</section>
+
+<!-- Publications Section -->
+<section class="research-section">
+  <div class="container">
+    <h2 class="section-title">Publications</h2>
+    <ul class="publications-list">
+      {% for pub in site.data.publications %}
+      <li class="publication-item">
+        <div class="publication-title">{{ pub.title }}</div>
+        <div class="publication-authors">{{ pub.authors | replace: "K Zhang", "<strong>K Zhang</strong>" }}</div>
+        <div class="publication-venue">{{ pub.venue }}</div>
+        {% if pub.links %}
+        <div class="publication-links">
+          {% for link in pub.links %}
+          <a href="{{ link.url }}" target="_blank" rel="noopener">[{{ link.label }}]</a>
+          {% endfor %}
+        </div>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" width="300" height="100">
+  <!-- Placeholder for University of Edinburgh logo -->
+  <!-- Replace this file with the actual university logo -->
+  
+  <!-- Shield outline placeholder -->
+  <path d="M30 10 L30 70 Q30 90 50 90 Q70 90 70 70 L70 10 Z" 
+        fill="none" stroke="#e6edf3" stroke-width="2"/>
+  
+  <!-- Cross in shield -->
+  <line x1="50" y1="20" x2="50" y2="80" stroke="#e6edf3" stroke-width="2"/>
+  <line x1="35" y1="45" x2="65" y2="45" stroke="#e6edf3" stroke-width="2"/>
+  
+  <!-- Text placeholder -->
+  <text x="90" y="40" fill="#e6edf3" font-family="serif" font-size="14" font-weight="500">
+    THE UNIVERSITY OF
+  </text>
+  <text x="90" y="65" fill="#e6edf3" font-family="serif" font-size="20" font-weight="600">
+    EDINBURGH
+  </text>
+  
+  <!-- Accent line -->
+  <line x1="90" y1="75" x2="220" y2="75" stroke="#00bcd4" stroke-width="1" opacity="0.5"/>
+</svg>
+

@@ -1,7 +1,57 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello Page</h1>
-<p>Site under construction</p>
-</body>
-</html>
+---
+layout: default
+title: Home
+---
+
+<!-- Hero Section -->
+<section class="hero">
+  <div class="container">
+    <div class="hero-content">
+      <div class="hero-left">
+        <div class="profile-image">
+          <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Kaicheng Zhang">
+        </div>
+        <div class="hero-info">
+          <h1 class="hero-name">{{ site.author.display_name }}</h1>
+          <p class="hero-title">{{ site.author.title }}</p>
+          <p class="hero-affiliation">{{ site.author.affiliation }}</p>
+          {% include social-icons.html %}
+        </div>
+      </div>
+      <div class="hero-right">
+        <div class="university-logo">
+          <img src="{{ '/assets/images/uoe-logo.png' | relative_url }}" alt="University of Edinburgh">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- About Section -->
+<section class="section about-section">
+  <div class="container">
+    <h2 class="section-title">About</h2>
+    <div class="about-content">
+      <p>
+        I am an engaging and highly motivated PhD student specialising in Machine Learning and enrolled under 
+        <a href="https://www.mac-migs.ac.uk/" target="_blank">CDT in Mathematical Modelling, Analysis, and Computation (MAC-MIGS CDT)</a>, 
+        jointly supervised by <a href="https://webhomes.maths.ed.ac.uk/~dhigham/" target="_blank">Desmond Higham</a> 
+        and <a href="https://ftudisco.gitlab.io/post/" target="_blank">Francesco Tudisco</a> at University of Edinburgh.
+      </p>
+      <p>
+        My current research interests span a diverse range of topics including discrete diffusion language models, 
+        agentic LLMs, graph neural networks, and physics-inspired representation learning
+        enhanced with oscillatory dynamics.
+      </p>
+      <p>
+        Prior to this, I worked on adversarial attacks targeting image classifiers, 
+        LLMs, and machine-unlearned diffusion models. I also gained experience with 
+        optical neural networks during my Bachelor's degree.
+      </p>
+    </div>
+  </div>
+</section>
+
+<!-- News Section -->
+{% include news.html %}
+

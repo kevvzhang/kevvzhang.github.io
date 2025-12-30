@@ -1,0 +1,11 @@
+# News and updates - add new entries at the top
+# Format: date (Month Year) and text description
+
+- date: "Dec 2025"
+  text: "The website goes live!"
+
+- date: "Dec 2025"
+  text: 'Started a research scientist intern position at [stealth startup] on building scalable multi-agent systems, supervised by <a href="https://misovalko.github.io/index.html" target="_blank">Michal Valko</a>.'
+
+- date: "Nov 2024"
+  text: 'Our team 8k3 won the <strong>First Place</strong> at ICAIF 2025 Crypto Forecasting Competition with Stuart Landau Oscillatory Recursive Neural Network (SLRNN), an extension of our work on graph neural networks (SLGNN). <a href="https://arxiv.org/pdf/2511.08094" target="_blank">[Paper]</a>'
