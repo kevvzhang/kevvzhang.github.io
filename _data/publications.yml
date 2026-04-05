@@ -3,11 +3,13 @@
 
 - title: "Stuart-Landau Oscillatory Graph Neural Network"
   authors: "K Zhang, DN Reynolds, P Deidda, F Tudisco"
-  venue: "arXiv preprint arXiv:2511.08094, 2025"
-  year: 2025
+  venue: "WWW 2026"
+  year: 2026
   links:
     - label: "arXiv"
       url: "https://arxiv.org/abs/2511.08094"
+    - label: "Code"
+      url: "https://github.com/kevvzhang/StuartLandauGNN"
 
 - title: "Rethinking the Vulnerability of Concept Erasure and a New Method"
   authors: "AD Richardson*, K Zhang*, L Beerens, D Chen"
@@ -17,10 +19,10 @@
     - label: "arXiv"
       url: "https://arxiv.org/abs/2502.17537v3"
 
-- title: "Rethinking Oversmoothing in Graph Neural Networks: A Rank-Based Perspective"
+- title: "Are We Measuring Oversmoothing in Graph Neural Networks Correctly?"
   authors: "K Zhang*, P Deidda*, D Higham, F Tudisco"
-  venue: "arXiv preprint arXiv:2502.04591, 2025"
-  year: 2025
+  venue: "ICLR 2026"
+  year: 2026
   links:
     - label: "arXiv"
       url: "https://arxiv.org/abs/2502.04591"
