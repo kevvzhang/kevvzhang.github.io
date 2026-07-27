@@ -1,6 +1,22 @@
 # Publications list
 # Add new publications at the top
 
+- title: 'OpenFinGym: A Verifiable Multi-Task Gym Environment for Evaluating Quant Agents'
+  authors: 'K Zhang*, W Ge*, L Jiang, W Yang, J Langham-Lopez, J Yu, L Szpruch, H Ni'
+  venue: 'arXiv preprint arXiv:2606.26350, 2026'
+  year: 2026
+  links:
+    - label: 'arXiv'
+      url: 'https://arxiv.org/abs/2606.26350'
+
+- title: 'MOSAIC: Modular Orchestration for Structured Agentic Intelligence and Composition'
+  authors: 'Y Bao, X Xi, X Liu, W Ge, L Jiang, K Zhang, R Khraishi, Y Ang, AKH Tung, L Szpruch, H Ni'
+  venue: 'arXiv preprint arXiv:2606.00708, 2026'
+  year: 2026
+  links:
+    - label: 'arXiv'
+      url: 'https://arxiv.org/abs/2606.00708'
+
 - title: "Stuart-Landau Oscillatory Graph Neural Network"
   authors: "K Zhang, DN Reynolds, P Deidda, F Tudisco"
   venue: "WWW 2026"
