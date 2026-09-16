@@ -1,6 +1,9 @@
 # News and updates - add new entries at the top
 # Format: date (Month Year) and text description
 
+- date: "Sep 2026"
+  text: '<a href="https://arxiv.org/abs/2606.26350" target="_blank"><strong>OpenFinGym: A Verifiable Multi-Task Gym Environment for Evaluating Quant Agents</strong></a> accepted to <strong>EMNLP 2026 Findings</strong>! <a href="https://github.com/DeepIntoStreams/OpenFinGym" target="_blank">[Code]</a>'
+
 - date: "Jan 2026"
   text: 'Two papers accepted!
     <ul>
